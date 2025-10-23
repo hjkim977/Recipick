@@ -44,9 +44,10 @@
 ![image](https://github.com/user-attachments/assets/195b709a-6936-440c-adaf-65aa005e8070)
 
 - Front-end : Vue.js, HTML, CSS, Bootstrap
-- Back-end : Django, drf, docker,
+- Back-end : Python, Django, drf
+- 환경 : docker
 - 데이터베이스 : postgresql
-- 협업 툴 : Git, Discode
+- 협업 툴 : Git, Discord
 <br><br/>
 
 ## 개발 방식
