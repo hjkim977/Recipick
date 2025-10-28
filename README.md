@@ -3,24 +3,8 @@
 
 <br>
 
-- 제일 먼저 보이는 화면
-![image](https://github.com/user-attachments/assets/f5d28c72-996e-49f0-b5a2-610e3b66ff92)
-<br>
-
-- 로그인을 했을 때 보이는 화면
 ![image](https://github.com/user-attachments/assets/5ff0bf6d-a23c-4959-98cc-afaddf5dd735)
 <br><br/>
-
-
-## 프로젝트 소개
-- **요리 보기** : 자신의 레시피를 업로드하고 공유하는 공간
-- **재료 무료 나눔** : 남는 재료를 무료로 나눔하며 나눔을 원하는 사람은 채팅하기 버튼을 눌러 나눔자와 채팅하고 재료를 나눔 받는 공간
-- **요리 실험 일지** : 일반 레시피 보다는 색다른 음식들을 만들어 일기 형태로 공유하는 공간
-- **요리 지식인** : 요리에 관하여 궁금한 점이 있으면 물어보고 댓글을 통해 답변을 받아 동일한 궁금증을 갖고 있는 분들에게 도움을 주는 공간
-- **AI 추천 레시피** : 최대 5개까지 재료를 넣을 수 있고 입력 받은 재료를 통해 AI가 색다른 레시피를 추천해주는 공간
-- 저희 사이트는 로그인을 해야 모든 기능을 이용할 수 있습니다.
-<br><br/>
-
 
 ## 팀원 구성
 |이은택|김혜지|
@@ -37,7 +21,7 @@
 
 
 ## WBS
-![image](https://github.com/user-attachments/assets/a5e34e62-f3c6-4488-8399-257d74553cb0)
+<img src="https://velog.velcdn.com/images/hjkim977/post/442bee1a-d364-486f-b921-b5157f052dca/image.png">
 <br><br/>
 
 ## 개발 환경
@@ -73,6 +57,23 @@
 ### 4. Swagger
 ![swagger-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e95e2495-0004-4bd0-b203-0c61214d2826)
 - api를 한눈에 볼 수 있고 프론트 작업에서 매우 유용하게 사용 되었다.
+<br><br/>
+
+## 회원가입
+![](https://velog.velcdn.com/images/hjkim977/post/fc2002ab-4852-4fd5-9c37-5e110c024ab9/image.gif)
+<br><br/>
+
+## 로그인
+![](https://velog.velcdn.com/images/hjkim977/post/fe4b1cf7-5e0e-42ea-93e3-97ce9843e1fc/image.gif)
+<br><br/>
+
+## 기능 소개
+- **요리 보기** : 자신의 레시피를 업로드하고 공유하는 공간
+- **재료 무료 나눔** : 남는 재료를 무료로 나눔하며 나눔을 원하는 사람은 채팅하기 버튼을 눌러 나눔자와 채팅하고 재료를 나눔 받는 공간
+- **요리 실험 일지** : 일반 레시피 보다는 색다른 음식들을 만들어 일기 형태로 공유하는 공간
+- **요리 지식인** : 요리에 관하여 궁금한 점이 있으면 물어보고 댓글을 통해 답변을 받아 동일한 궁금증을 갖고 있는 분들에게 도움을 주는 공간
+- **AI 추천 레시피** : 최대 5개까지 재료를 넣을 수 있고 입력 받은 재료를 통해 AI가 색다른 레시피를 추천해주는 공간
+- 저희 사이트는 로그인을 해야 모든 기능을 이용할 수 있습니다.
 <br><br/>
 
 ## 향후 계획
