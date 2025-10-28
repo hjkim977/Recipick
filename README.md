@@ -8,7 +8,7 @@
 
 ## 👥 팀원 구성
 |이은택|김혜지|
-|---|---|
+|:---:|:---:|
 |![image](https://github.com/user-attachments/assets/3cea9f8f-c401-412b-9ca3-7d7cb82a1ef6)|![image](https://github.com/user-attachments/assets/855687a1-4765-4492-abca-119cca7fe9af)|
 |[@hoya9802](https://github.com/hoya9802)|[@hjkim977](https://github.com/hjkim977)|
 
