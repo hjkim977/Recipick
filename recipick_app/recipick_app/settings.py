@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'channels',
     'daphne',
     'rest_framework',
-    'rest_framework.authtoken',
+    'rest_framework.authtoken', #drf 기본 토큰
     'corsheaders',
     'djoser',
     'drf_spectacular',

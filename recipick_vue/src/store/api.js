@@ -7,6 +7,7 @@ const apiClient = axios.create({
   },
 });
 
+/*로그인 후 헤더에 토큰을 자동으로 붙이는 함수*/
 export function setAuthToken(token) {
   if (token) {
     apiClient.defaults.headers.common['Authorization'] = `Token ${token}`;

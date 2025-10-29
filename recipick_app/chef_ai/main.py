@@ -1,6 +1,7 @@
 import os
 import json
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers.pipelines import pipeline
 
 
 def load_model():

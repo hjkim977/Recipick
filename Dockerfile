@@ -13,7 +13,7 @@ EXPOSE 8000
 
 ARG DEV=false
 RUN python -m venv /py && \
-    /py/bin/pip install --upgrade pip && \
+    /py/bin/pip install --upgrade pip --no-cache-dir && \
     apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     libpq-dev \
@@ -31,8 +31,8 @@ RUN python -m venv /py && \
     libssl-dev \
     libffi-dev \
     pkg-config \
-    && /py/bin/pip install -r /tmp/requirements.txt && \
-    if [ $DEV = "true" ]; then /py/bin/pip install -r /tmp/requirements.dev.txt; fi && \
+    && /py/bin/pip install --no-cache-dir -r /tmp/requirements.txt && \
+    if [ $DEV = "true" ]; then /py/bin/pip install --no-cache-dir -r /tmp/requirements.dev.txt; fi && \
     rm -rf /var/lib/apt/lists/* && \
     adduser \
         --disabled-password \
