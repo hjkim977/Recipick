@@ -45,7 +45,11 @@
 <br><br/>
 
 ## 1️⃣ 회원가입, 아이디 및 비밀번호 찾기, 로그인
-![1028](https://github.com/user-attachments/assets/196d89ab-9a9e-4293-9759-4ca59c06cb16)
+https://github.com/user-attachments/assets/64a18da1-f212-4c5e-a2b7-971bad9e8fa1
+
+## 2️⃣ 회원정보 수정
+https://github.com/user-attachments/assets/7308424f-b894-4d80-8e05-bc8d2e00f102
+
 
 <br><br/>
 
