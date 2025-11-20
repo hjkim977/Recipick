@@ -50,7 +50,8 @@ https://github.com/user-attachments/assets/64a18da1-f212-4c5e-a2b7-971bad9e8fa1
 ## 2️⃣ 회원정보 수정
 https://github.com/user-attachments/assets/7308424f-b894-4d80-8e05-bc8d2e00f102
 
-
+## 3️⃣ 메인화면
+https://github.com/user-attachments/assets/3aedca15-9db0-4863-a39c-932819162eb9
 <br><br/>
 
 ## 💡 기능 소개
